@@ -1,6 +1,6 @@
 # telegram_bot
 ## This is Python bot that connect to telegram API
-**through telebot package** and **pyTelegramBot** library
+**through telebot package** and **pyTelegramBot library** 
 Project description
 A Python implementation for the Telegram Bot API.
 
